@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dayride_type1_003.mp4#t=316.jpg</filename>
+    <path>license-plate-detector-PascalVOC-export/Annotations/dayride_type1_003.mp4#t=316.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>license-plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1169.4567566269689</xmin>
+        <ymin>425.85244851034196</ymin>
+        <xmax>1267.4115203611218</xmax>
+        <ymax>453.3934621341893</ymax>
+    </bndbox>
+</object><object>
+    <name>license-plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>624.6085646369573</xmin>
+        <ymin>526.5737539822937</ymin>
+        <xmax>867.3315645409143</xmax>
+        <ymax>593.8524665207159</ymax>
+    </bndbox>
+</object>
+</annotation>
